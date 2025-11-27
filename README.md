@@ -49,7 +49,6 @@ All scripts share the same model; only the solver and algorithm settings differ.
 └── README.md             # Project documentation
 ```
 
-> If your files are currently `.txt`, rename them to `.m` or update the filenames above accordingly.
 
 ---
 
